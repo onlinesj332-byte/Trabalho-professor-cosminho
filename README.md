@@ -70,3 +70,11 @@ Relatório da Sprint.
 8. Objetivo final
 Entregar um banco de dados organizado, normalizado e funcional, reduzindo redundâncias e melhorando a integridade das informações dos clientes e pedidos.
  
+## Histórico de desenvolvimento
+
+- Organização do código SQL.
+
+- Documentação das alterações.
+
+- Preparação para revisão do projeto.
+ 
